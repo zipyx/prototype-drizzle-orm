@@ -17,6 +17,7 @@
     "test:coverage": "jest --coverage"
   },
   "dependencies": {
+    "drizzle-orm": "^0.23.1",
     "eslint": "^8.36.0",
     "mysql2": "^2.3.3",
     "tslib": "^2.5.0"
@@ -24,7 +25,6 @@
   "devDependencies": {
     "@types/node": "*",
     "drizzle-kit": "0.17.0-0cf3fe9",
-    "drizzle-orm": "^0.23.1",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.2"
   },
