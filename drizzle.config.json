@@ -1,5 +1,5 @@
 {
   "out": "./migrations",
   "schema": "./src/db/schema.ts",
-  "connectionString": "mysql://developer:developerpassword@localhost:3306/test"
+  "connectionString": "postgresql://postgres:popsicles@localhost:5832/lumiodb"
 }
